@@ -6,7 +6,7 @@ from aiogram import Bot, Dispatcher
 from aiogram.types import Message
 
 # Вставьте сюда актуальный токен бота из BotFather без пробелов по краям
-BOT_TOKEN = "8622320029:AAFHn9XxR9GT8hYnMyEi0aGSfaZDlflImuQ"
+BOT_TOKEN = "8622320029:AAFBp01HTp9ZFNmy718ynffjHDAAOq12E-0"
 
 bot = Bot(token=BOT_TOKEN.strip())
 dp = Dispatcher()
